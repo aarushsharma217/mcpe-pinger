@@ -1,0 +1,10 @@
+{
+  "name": "mcpe-tcp-pinger",
+  "version": "1.0.0",
+  "description": "Keeps a Minecraft Bedrock server awake by sending TCP pings.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
